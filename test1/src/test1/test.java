@@ -6,5 +6,6 @@ public class test {
 	String str3 = new String("안녕");
 	String str4 = new String("안녕");
 	String str5 = "abcd";
+	//한글 들어왔는지
 //안녕
 }
