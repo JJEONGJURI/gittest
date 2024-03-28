@@ -3,6 +3,7 @@ package test1;
 public class test {
 
 	public static void main(String[] args) {
+		//ÇÑ±Û
 		String str1 = "¾È³ç";
 		String str2 = "¾È³ç";
 		String str3 = new String("¾È³ç");
