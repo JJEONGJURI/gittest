@@ -3,11 +3,11 @@ package test1;
 public class test {
 
 	public static void main(String[] args) {
-		//ÇÑ±Û
-		String str1 = "¾È³ç";
-		String str2 = "¾È³ç";
-		String str3 = new String("¾È³ç");
-		String str4 = new String("¾È³ç");
+		//ï¿½Ñ±ï¿½
+		String str1 = "ì•ˆë…•";
+		String str2 = "ì•ˆë…•";
+		String str3 = new String("ì•ˆë…•");
+		String str4 = new String("ì•ˆë…•");
 		String str5 = "abcd";
 		String str6 = str4;
 		
