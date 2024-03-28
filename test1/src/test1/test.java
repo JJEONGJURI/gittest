@@ -3,7 +3,7 @@ package test1;
 public class test {
 
 	public static void main(String[] args) {
-		//�ѱ�
+		//안녕
 		String str1 = "안녕";
 		String str2 = "안녕";
 		String str3 = new String("안녕");
